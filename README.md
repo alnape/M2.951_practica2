@@ -9,15 +9,12 @@ En aquesta pràctica s'inclouen tècniques de cleaning data mitjançant el lleng
 Aquesta pràctica ha estat realitzada de forma individual per Albert Navarro Pérez (alnape@uoc.edu).
 
 ## Fitxers de codi
-* **src/**: fitxer principal del programa. Conté els passos per realitzar el web scraping.
-* **src/**: conté la implementació de la clase NBA, els mètodes de la qual generen el conjunt de dades (fitxer csv) a partir de la informació continguda al portal d'esports ESPN.
+* **src/alnape_practica2.R**: fitxer amb comandes R utilitzades.
 
-## Fitxer amb dades 
-* **csv/Players_Season_2017_2018.csv**: fitxer amb les dades dels jugadors de l'NBA (temporada 2017-2018)
+## Fitxers amb dades 
+* **csv/melbourne-housing-market.zip**: fitxers amb els conjunt de dades originals
+* **csv/Mhm_data_clean.csv**: fitxer amb el conjunt de dades després d'aplicar cleaning
 
 ## Fitxer amb respostes 
-* **pdf/alnape_Practica2.pdf**: fitxer amb respostes a les preguntes plantejades
+* **pdf/alnape_practica2.pdf**: documentació de l'estudi realitzat
 
-## Recursos utilitzats
-1. Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
-2. Mitchel, R. (2015). Web Scraping with Python: Collecting Data from the Modern Web. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
